@@ -21,7 +21,7 @@ The full list of columns and their descriptions can be found [here](https://gith
 
 ## Analysis
 
-The data starts from 1750. To deal with the missing values, I filtered out the first quartile for **'year'** and dropped columns with more than 80% missing values. For the purpose of this analysis, we will restrict the analysis to the time period 1920 to 2020.
+The data starts from 1750. To deal with the missing values, we filtered out the first quartile for **'year'** and dropped columns with more than 80% missing values. For the purpose of this analysis, we will restrict the analysis to the time period 1920 to 2020.
 
 **Global Emissions Trend**
 
